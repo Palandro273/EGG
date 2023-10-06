@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 #Bonita
 #Inutil
 #Moderna
 #Eficas
 #Mala
+=======
+#Fea
+#Util
+#Moderna
+#Lenta
+#Buena
+>>>>>>> feature2
