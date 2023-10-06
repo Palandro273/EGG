@@ -1,5 +1,5 @@
 #Bonita
-#Util
+#Inutil
 #Moderna
 #Eficas
-#Buena
+#Mala
