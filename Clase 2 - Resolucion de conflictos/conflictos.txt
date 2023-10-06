@@ -1,3 +1,9 @@
 Este es un contenido para hacer pruebas bueno :D
 Este es un contenido para hacer pruebas malo >:D
+<<<<<<< HEAD
 Yay Arreglado <3
+=======
+Y este que?
+Dou, esto es nuevo, no?
+Error 404 :P
+>>>>>>> 65d51d7 (Error)
