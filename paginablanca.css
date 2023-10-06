@@ -1,0 +1,19 @@
+.letra{
+    color: red;
+    font-family: 'Franklin Gothic Medium';
+}
+.fondo{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+.tabla{
+    display: flex;
+    justify-content: center;
+}
+.cajas th{
+    border: 1px solid black;
+}
+.cajas span{
+    border: 1px solid black;
+}
+
